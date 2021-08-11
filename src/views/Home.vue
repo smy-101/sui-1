@@ -6,7 +6,7 @@
       <h1>SUI</h1>
       <h2>一个基于Vue3的 UI 框架</h2>
       <p class="actions">
-        <a href="https://github.com">GitHub</a>
+        <a href="https://github.com/smy-101/sui-1">GitHub</a>
         <router-link to="/doc">开始</router-link>
       </p>
     </div>
